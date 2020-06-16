@@ -1,0 +1,13 @@
+name: RCMAP_opioid
+title: RCMAP_opioid
+username:
+account: ed-apps
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 1327562
+bundleId: 2499891
+url: https://ed-apps.shinyapps.io/RCMAP_opioid/
+when: 1571081638.42218
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: Demo01.RData|DemoProject01.xls

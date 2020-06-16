@@ -1,0 +1,71 @@
+﻿StatementID,Statement
+1,Any opioid-related encounter
+2,Overdose
+3,Intentional opioid overdose
+4,Opioid Abuse
+5,Seeking Addiction Treatment/Detox
+6,Opioid Overdose
+7,Intravenous drug abuse
+8,Concerning infection/Infection Complication of OUD
+9,Accidental opioid overdose
+10,Opioid withdrawal
+11,OUD with suicidality
+12,Opioid use disorder
+13,Endocarditis
+14,High Risk Prescription Use
+15,Opioid Misuse
+16,Homelessness
+17,Opioid related acute severe morbidity (i.e. infectious endocarditis)
+18,Drug Injection Injury/Complication
+19,Occult opioid use disorder
+20,"Opioid use disorder, untreated"
+21,"Opioid use disorder, in treatment"
+22,Opioid use disorder offered treatment but declined
+23,Polysubstance overdose
+24,Polysubstance use
+25,"Type of opioid overdose (heroin, fentanyl, prescription, methadone)"
+26,"opioid overdose with co-occurance of other substances (benzos, stimulants)"
+27,opioid misuse with polysubstance use
+28,substance abuse
+29,Co-ingestion with other substances
+30,Co-ingestion with alcohol
+31,presenting for symptoms related to other co-occuring substance or alcohol misuse
+32,OUD in remission/treatment
+33,Decreased respiratory rate
+34,Opioid Related Fall
+35,Overdose with Trauma
+36,Opioid associated Trauma
+37,Overdose with prescribed opioid
+38,Overdose with nonprescribed opioid
+39,Indication of prior SUD Treatment/Admission
+40,Iatrogenic Opioid Overdose
+41,Opioid dependent without misuse
+42,OUD with depression
+43,Fentanyl use
+44,Remote history of opioid use (not active)
+45,"Stable, chronic opioid use"
+46,Opioid induced delirium
+47,altered mental status
+48,ED encounter with related acute but mild-moderate (e.g. soft tissue infection) morbidity
+49,Opioid related sexually transmitted infection
+50,ED encounter with acute mental illness(es)
+51,Concurrent mental health diagnosis
+52,Patients with co-occuring mental health conditions
+53,Chronic Pain
+54,Opioid dependency
+55,Intoxication
+56,Drug induced depression
+57,Self-harm
+58,high risk age (e.g. 18-45)
+59,opioid use (any)
+60,Opioid misuse with low socioeconomic status (SES)
+61,De novo use/first use opioid
+62,Co-occuring OUD and mental health disorder
+63,OUD and alcohol use disorder
+64,ED encounter with chronic mental illness(es)
+65,Opioid-Induced mental disorder
+66,"Presenting for medical or surgical condition not related to opioid misuse (asthma exacerbation, acute appendicitis)"
+67,Presenting for chronic pain condition for which opioids are being misused to treat pain (e.g. patient with high MME chronic opioid use who was cut off therapy)
+68,"Presenting for mental health condition (depression, suicidal ideation)"
+69,Buprenorphine on any prior medical record
+70,Acute Pain
